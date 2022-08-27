@@ -5,7 +5,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCutT1cn1HmPOCk2y2LVM7RA/)](https://www.youtube.com/channel/UCutT1cn1HmPOCk2y2LVM7RA)
 
 ### Sobre mim
-Eu sou um desenvolvedor back-end e front-end, com habilidades em wordpress.
+Eu sou um desenvolvedor back-end e front-end, com habilidades em wordpress e edição de vídeos.
 
 - [Site Portfolio](https://augustodomingos.netlify.app/) ✍🏼 - O meu portfolio pessoal apresentando os meus serviços e projetos.
 - [Website](http://aghastygdproductions.ml/) 💻 - Site da minha organização.
