@@ -1,4 +1,4 @@
-# Olá, eu sou Augusto! :D
+# Olá, eu sou Augusto Domingos! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AghastyGD)](https://github.com/AghastyGD)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-domingos-31801519a)](https://www.linkedin.com/in/augusto-domingos-31801519a)
