@@ -7,5 +7,5 @@
 ### Sobre mim
 Eu sou um desenvolvedor back-end e front-end, com habilidades em wordpress e edição de vídeos.
 
-- [Site Portfolio](https://augustodomingos.netlify.app/) ✍🏼 - O meu portfolio pessoal apresentando os meus serviços e projetos.
+- [Site Portfolio](https://aghastygd.pythonanywhere.com/) ✍🏼 - O meu portfolio pessoal apresentando os meus serviços e projetos.
 - [Aghasty GD Productions](http://aghastygdproductions.ml/) 💻 - Site da minha organização.
