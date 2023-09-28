@@ -8,4 +8,4 @@
 Eu sou um desenvolvedor back-end e front-end, com habilidades em wordpress e edição de vídeos.
 
 - [Site Portfolio](https://aghastygd.pythonanywhere.com/) ✍🏼 - O meu portfolio pessoal apresentando os meus serviços e projetos.
-- [Aghasty GD Productions](http://aghastygdproductions.ml/) 💻 - Site da minha organização.
+- [MozTeek - Conectando Moçambique à Cultura Geek e Tecnologia ](https://www.mozteek.com/) 💻 - Blog que criei com o Python/Django, aqui faço postagens de conteúdos no universo geek e tecnologia.
