@@ -20,10 +20,9 @@ I'm always open to new challenges and collaboration opportunities. Whether you w
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aghastygd24k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aghastygd24k" height="30" width="40" /></a>
-<a href="https://fb.com/augusto.domingos.549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="augusto.domingos.549" height="30" width="40" /></a>
-<a href="https://instagram.com/aghasty_gd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aghasty_gd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aghastygdproductions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aghastygdproductions" height="30" width="40" /></a>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AghastyGD)](https://github.com/AghastyGD)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-domingos-31801519a)](https://www.linkedin.com/in/augusto-domingos-31801519a)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCutT1cn1HmPOCk2y2LVM7RA/)](https://www.youtube.com/channel/UCutT1cn1HmPOCk2y2LVM7RA)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
