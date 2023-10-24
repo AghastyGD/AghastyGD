@@ -31,4 +31,4 @@ I'm always open to new challenges and collaboration opportunities. Whether you w
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aghastygd&theme=aura-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghastygd&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghastygd&layout=compact&theme=aura_dark)]
