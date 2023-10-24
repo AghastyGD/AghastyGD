@@ -1,19 +1,24 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Augusto Domingos</h1>
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <h3 align="center">A passionate Django FullStack Developer from Mozambique</h3>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=aghastygd&label=Profile%20views&color=0e75b6&style=flat" alt="aghastygd" /> </p>
+   
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aghastygd&label=Profile%20views&color=0e75b6&style=flat" alt="aghastygd" /> </p>
 
-- 🔭 I’m currently working on [MozTeek - Conectando Moçambique à Cultura Geek e Tecnologia](https://www.mozteek.com)
 
-- 🌱 I’m currently learning **ReactJs, NextJs, Java**
+<h3 align="left">About Me:</h3>
+<p align="left">
+Hello! I'm Augusto Domingos, a passionate FullStack developer specializing in Django, based in Mozambique. My journey in programming began in the captivating realm of web development, and since then, I've delved into various technologies and frameworks to craft innovative solutions. Currently, I'm focused on learning ReactJs, NextJs, and Java to further expand my skill set.
 
-- 👨‍💻 All of my projects are available at [https://augusto-domingos.vercel.app](https://augusto-domingos.vercel.app)
+Apart from software development, I take pleasure in writing articles on my website [https://www.mozteek.com](https://www.mozteek.com), where I share my knowledge and experience with the community. My mission is to contribute to connecting Mozambique with geek culture and technology, bringing creative ideas and digital solutions.
 
-- 📝 I regularly write articles on [https://www.mozteek.com](https://www.mozteek.com)
+I'm always open to new challenges and collaboration opportunities. Whether you want to discuss projects, exchange knowledge, or simply chat about Django, Python, or JavaScript, feel free to get in touch with me. Let's create amazing things together!
+
+📫 You can reach me via email: augustodomingosvasco@gmail.com
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
