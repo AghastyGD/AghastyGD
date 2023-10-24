@@ -3,6 +3,7 @@
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=aghastygd&label=Profile%20views&color=0e75b6&style=flat" alt="aghastygd" /> </p>
     <h3 align="center">A passionate Django FullStack Developer from Mozambique</h3>
+     <a href="README.pt.md" align="center"><strong>Leia em Português</strong></a>
 </div>
 
 [Leia em Português](README.pt.md)
