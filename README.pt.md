@@ -5,6 +5,8 @@
     <h3 align="center">Um apaixonado Desenvolvedor FullStack Django de Moçambique</h3>
 </div>
 
+[Read In English](README.md)
+
 <h3 align="left">Sobre Mim:</h3>
 <p align="left">
 Baseado em Moçambique. Minha jornada na programação começou no cativante mundo do desenvolvimento web e, desde então, tenho explorado várias tecnologias e frameworks para criar soluções inovadoras. Atualmente, estou focado em aprender ReactJs, NextJs e Java para expandir ainda mais meu conjunto de habilidades.
