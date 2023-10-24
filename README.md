@@ -13,17 +13,15 @@ Based in Mozambique. My journey in programming began in the captivating realm of
 Apart from software development, I take pleasure in writing articles on my website [https://www.mozteek.com](https://www.mozteek.com), where I share my knowledge and experience with the community. My mission is to contribute to connecting Mozambique with geek culture and technology, bringing creative ideas and digital solutions.
 
 I'm always open to new challenges and collaboration opportunities. Whether you want to discuss projects, exchange knowledge, or simply chat about Django, Python, or JavaScript, feel free to get in touch with me. Let's create amazing things together!
-
-📫 You can reach me via email: augustodomingosvasco@gmail.com
 </p>
 
 
 <h3 align="left">You can find me at:</h3>
 <p align="left"> 
-<a href="https://www.linkedin.com/in/augusto-domingos-31801519a" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)">
-<a href="https://web.facebook.com/augusto.domingos.549/" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/facebook/facebook.svg" width="25" height="25">
-<a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white">
-<a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white">
+<a href="https://www.linkedin.com/in/augusto-domingos-31801519a" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.instagram.com/aghasty_gd/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://web.facebook.com/augusto.domingos.549/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+<a href="https://www.youtube.com/@aghastygdproductions/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
     
 </p>
 
