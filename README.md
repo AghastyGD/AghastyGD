@@ -30,3 +30,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aghastygd&show_icons=true&locale=en&layout=compact" alt="aghastygd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aghastygd&show_icons=true&locale=en" alt="aghastygd" /></p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aghastygd&theme=aura-dark)](https://git.io/streak-stats)
