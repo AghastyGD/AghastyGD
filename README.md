@@ -27,7 +27,7 @@ I'm always open to new challenges and collaboration opportunities. Whether you w
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,tailwind,sass,react,nodejs,figma>
+    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,tailwind,sass,react,nodejs,figma">
 </p>
 
 ### :fire: My Stats :
