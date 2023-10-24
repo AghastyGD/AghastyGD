@@ -5,8 +5,7 @@
     <h3 align="center">A passionate Django FullStack Developer from Mozambique</h3>
 </div>
 
-
-
+[Leia em Português](README.pt.md)
 
 <h3 align="left">About Me:</h3>
 <p align="left">
