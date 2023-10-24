@@ -21,7 +21,7 @@ I'm always open to new challenges and collaboration opportunities. Whether you w
 <h3 align="left">You can find me at:</h3>
 <p align="left"> 
 <a href="https://www.linkedin.com/in/augusto-domingos-31801519a" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)">
-<a href="https://web.facebook.com/augusto.domingos.549/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white">
+<a href="https://web.facebook.com/augusto.domingos.549/" target="_blank" rel="noreferrer"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/facebook/facebook.svg">
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white">
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white">
     
