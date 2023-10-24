@@ -26,11 +26,13 @@ I'm always open to new challenges and collaboration opportunities. Whether you w
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,tailwind,sass,react,nodejs,figma">
-</p>
+<div align="center"> 
+    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,tailwind,sass,react,bootstrap,nodejs,figma,ps,git,vercel,nextjs,netlify">
+</div>
 
 ### :fire: My Stats :
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aghastygd&theme=aura-dark)](https://github.com/aghastygd)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghastygd&layout=compact&theme=aura_dark)](https://github.com/aghastygd)
+</div>
