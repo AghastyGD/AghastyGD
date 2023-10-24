@@ -19,10 +19,7 @@ I'm always open to new challenges and collaboration opportunities. Whether you w
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AghastyGD)](https://github.com/AghastyGD)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-domingos-31801519a)](https://www.linkedin.com/in/augusto-domingos-31801519a)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCutT1cn1HmPOCk2y2LVM7RA/)](https://www.youtube.com/channel/UCutT1cn1HmPOCk2y2LVM7RA)
+<p align="left"> <a href="https://github.com/AghastyGD" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
