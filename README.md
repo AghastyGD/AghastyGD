@@ -18,10 +18,10 @@ I'm always open to new challenges and collaboration opportunities. Whether you w
 
 <h3 align="left">You can find me at:</h3>
 <p align="left"> 
-<a href="https://www.linkedin.com/in/augusto-domingos-31801519a" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;&nbsp;
-<a href="https://www.instagram.com/aghasty_gd/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">&nbsp;&nbsp;
-<a href="https://web.facebook.com/augusto.domingos.549/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">&nbsp;&nbsp;
-<a href="https://www.youtube.com/@aghastygdproductions/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/augusto-domingos-31801519a" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> &nbsp;&nbsp;
+<a href="https://www.instagram.com/aghasty_gd/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> &nbsp;&nbsp;
+<a href="https://web.facebook.com/augusto.domingos.549/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> &nbsp;&nbsp;
+<a href="https://www.youtube.com/@aghastygdproductions/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"> &nbsp;&nbsp;
     
 </p>
 
