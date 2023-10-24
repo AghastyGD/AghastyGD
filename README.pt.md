@@ -27,7 +27,7 @@ Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div align="center"> 
-    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,tailwind,sass,react,bootstrap,nodejs,figma,ps,git,vercel,nextjs,netlify">
+    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,tailwind,sass,react,bootstrap,nodejs,figma,ps,git,vercel,nextjs">
 </div>
 
 ### :fire: Estatísticas:
