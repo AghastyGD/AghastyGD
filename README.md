@@ -2,7 +2,7 @@
     <h1 align="center">Hi 👋, I'm Augusto Domingos :) </h1>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=aghastygd&label=Profile%20views&color=0e75b6&style=flat" alt="aghastygd" /> </p>
-    <h3 align="center">A passionate FullStack Web Developer from Mozambique</h3>
+    <h3 align="center">Just a self-taught Back-End Developer from Mozambique</h3>
      <a href="README.pt.md" align="center"><em>Leia em Português</em></a>
 </div>
 
