@@ -12,7 +12,7 @@ Based in Mozambique. My journey in programming began in the captivating realm of
 
 Apart from software development, I take pleasure in writing articles on [https://www.mozteek.com](https://www.mozteek.com), where I share my knowledge and experience with the community. My mission is to contribute to connecting Mozambique with geek culture and technology, bringing creative ideas and digital solutions.
 
-I'm always open to new challenges and collaboration opportunities. Whether you want to discuss projects, exchange knowledge, or simply chat about Django, Python, or JavaScript, feel free to get in touch with me. Let's create amazing things together!
+I'm always open to new challenges and collaboration opportunities. Whether you want to discuss projects, exchange knowledge, or simply chat about Django, Python, or JavaScript, React, or Java, Spring Boot, feel free to get in touch with me. Let's create amazing things together!
 </p>
 
 
