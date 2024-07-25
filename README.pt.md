@@ -9,9 +9,9 @@
 
 <h3 align="left">Sobre Mim:</h3>
 <p align="left">
-Baseado em Moçambique. Minha jornada na programação começou no cativante mundo do desenvolvimento web e, desde então, tenho explorado várias tecnologias e frameworks para criar soluções inovadoras. Atualmente, estou focado em aprender ReactJs, NextJs e Java para expandir ainda mais meu conjunto de habilidades.
+Baseado em Moçambique. Minha jornada na programação começou no cativante mundo do desenvolvimento web e, desde então, tenho explorado várias tecnologias e frameworks para criar soluções inovadoras. Atualmente, estou focado em aprender Android com Kotlin e Rust para expandir ainda mais meu conjunto de habilidades.
 
-Além do desenvolvimento de software, tenho o prazer de escrever artigos no site [https://www.mozteek.com](https://www.mozteek.com), onde compartilho meu conhecimento e experiência com a comunidade. Minha missão é contribuir para conectar Moçambique à cultura geek e tecnologia, trazendo ideias criativas e soluções digitais.
+Além do desenvolvimento de software, tenho o prazer de escrever artigos na minha conta [dev.to](https://dev.to/aghastygd) e [medium](https://medium.com/@aghastygd), onde compartilho meu conhecimento e experiência com a comunidade. Minha missão é contribuir para conectar Moçambique à cultura geek e tecnologia, trazendo ideias criativas e soluções digitais.
 
 Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você deseja discutir projetos, trocar conhecimento ou simplesmente bater um papo sobre Django, Python ou JavaScript, sinta-se à vontade para entrar em contato comigo. Vamos criar coisas incríveis juntos!
 
