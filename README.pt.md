@@ -47,5 +47,6 @@ Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você 
 <h2>Estatísticas:</h2>
     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aghastygd&theme=aura-dark&locale=pt-br)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghastygd&layout=compact&theme=aura_dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 </div>
