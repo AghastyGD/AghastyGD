@@ -2,7 +2,7 @@
     <h1 align="center">Hi 👋, I'm Augusto Domingos :) </h1>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=aghastygd&label=Profile%20views&color=0e75b6&style=flat" alt="aghastygd" /> </p>
-    <h3 align="center">Just a self-taught programmer from Mozambique</h3>
+    <h3 align="center">Software Developer from Mozambique</h3>
     <a href="README.pt.md" align="center"><em>Leia em Português</em></a>
 </div>
 
@@ -10,11 +10,37 @@
 
 <h2 align="left">About Me:</h2>
 <p align="left">
-Based in Mozambique. My journey in programming began in the captivating realm of web development, and since then, I've delved into various technologies and frameworks to craft innovative solutions. Currently, I'm focused on learning Kotlin for Android and Rust to further expand my skill set.
 
-Apart from software development, I take pleasure in writing articles on [dev.to](https://dev.to/aghastygd) and [medium](https://medium.com/@aghastygd) where I share my knowledge and experience with the community. My mission is to contribute to connecting Mozambique with geek culture and technology, bringing creative ideas and digital solutions.
+I'm a software developer from Mozambique with a strong interest in building reliable software and understanding how things work beneath the surface.
 
-I'm always open to new challenges and collaboration opportunities. Whether you want to discuss projects, exchange knowledge, or simply chat about Django, Python, JavaScript, React, or Java, Spring Boot, feel free to get in touch with me. Let's create amazing things together!
+Most of my professional experience has been focused on backend development, building APIs, designing services, and solving real-world problems through software. Python has been my primary tool for years, but what keeps me interested in programming isn't a specific language—it's the process of understanding systems and figuring out how they can be improved.
+
+Over time, my interests have expanded beyond web development into software architecture, Linux, networking, systems programming, desktop applications, and open-source software. These days you'll often find me exploring Rust, reading about operating systems, experimenting with new ideas, or working on projects that challenge me to learn something new.
+
+I enjoy building software from scratch, but I also enjoy studying existing codebases and contributing back to projects I use. I've had the opportunity to contribute to the Fyrox game engine and continue learning from the open-source communities that make modern software possible.
+
+Outside of programming, I write technical articles, create content about technology, and share what I learn with other developers. One of my personal goals is to help make technology more accessible and visible within the Mozambican community.
+
+I'm particularly interested in understanding how software works beneath the surface, whether that's a web application, a Linux desktop environment, a game engine, a network protocol, or an emulator.
+
+----------
+
+## Current Projects
+
+-   Lazy Ninja — a Django library that automatically generates API endpoints, schemas, documentation, and client SDKs from Django models, built on top of Django Ninja.
+-   Wiretray — an open-source Linux desktop application for hotspot and network management written in Rust.
+
+----------
+
+## Interests
+
+-   Backend Engineering
+-   Software Architecture
+-   Open Source
+-   Reverse Engineering
+-   Emulation
+-   Game Engines
+-   Graphics Programming
 </p>
 
 ---
@@ -40,7 +66,7 @@ I'm always open to new challenges and collaboration opportunities. Whether you w
 
 <div align="center">
     <h2>Languages and Tools:</h2>
-    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,tailwind,sass,react,bootstrap,nodejs,figma,ps,git,vercel,nextjs">
+    <img src="https://skillicons.dev/icons?i=rust,py,django,fastapi,kotlin,java,postgres,docker,linux,git,react,nextjs">
 </div>
 
 ---
