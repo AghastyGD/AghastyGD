@@ -27,8 +27,9 @@ I'm particularly interested in understanding how software works beneath the surf
 
 ## Current Projects
 
--   Lazy Ninja — a Django library that automatically generates API endpoints, schemas, documentation, and client SDKs from Django models, built on top of Django Ninja.
--   Wiretray — an open-source Linux desktop application for hotspot and network management written in Rust.
+-   Lazy Ninja - a Django library that automatically generates API endpoints, schemas, documentation, and client SDKs from Django models, built on top of Django Ninja.
+-   Gunda - a cross-platform download manager written in Rust and developed Linux-first.
+-   Wiretray - an open-source Linux desktop application for hotspot and network management written in Rust.
 
 ----------
 
