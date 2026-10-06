@@ -26,8 +26,9 @@ Tenho um interesse especial em entender como o software funciona internamente, s
 
 ## Projetos Atuais
 
-* **Lazy Ninja** — uma biblioteca para Django que gera automaticamente endpoints de API, schemas, documentação e SDKs de clientes a partir de modelos Django, construída sobre Django Ninja.
-* **Wiretray** — uma aplicação desktop open source para Linux, desenvolvida em Rust, focada em gerenciamento de hotspots
+* **Lazy Ninja** - uma biblioteca para Django que gera automaticamente endpoints de API, schemas, documentação e SDKs de clientes a partir de modelos Django, construída sobre Django Ninja.
+* **Gunda** - um gerenciador de download crossplataforma focando principalmente em Linux, criado em Rust.
+* **Wiretray** - uma aplicação desktop open source para Linux, desenvolvida em Rust, focada em gerenciamento de hotspots
 
 ---
 
